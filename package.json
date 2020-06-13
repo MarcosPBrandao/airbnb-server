@@ -26,7 +26,7 @@
     "@adonisjs/lucid": "^6.1.3",
     "mysql": "github:mysqljs/mysql"
   },
-  "devDependencies": {"set-value": ">=2.0.1"}, // troca por security
+  "devDependencies": {"set-value": ">=2.0.1"}, 
   "autoload": {
     "App": "./app"
   }
