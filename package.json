@@ -28,7 +28,7 @@
   },
   "devDependencies": { 
     "set-value": ">=2.0.1",
-    "minimist": ">=1.2.3"
+    "minimist": ">=1.2.6"
   }, 
   "autoload": {
     "App": "./app"
